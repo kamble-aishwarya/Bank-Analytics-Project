@@ -53,7 +53,7 @@ Includes:
 
 ## Tools Used
 - **Excel** – Data Cleaning, EDA, Pivot Tables, Charts  
-- **SQL (MySQL/PostgreSQL)** – Joins, Window Functions, Aggregations  
+- **SQL (MySQL)** – Joins, Window Functions, Aggregations  
 - **Power BI** – DAX, Data Modeling, Interactive Dashboards  
 - **Tableau** – Visual Analytics, LOD Expressions, Storytelling Dashboards  
 
